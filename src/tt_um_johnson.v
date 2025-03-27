@@ -1,13 +1,3 @@
-/*
- * tt_um_factory_test.v
- *
- * Test user module
- *
- * Author: Sylvain Munaut <tnt@246tNt.com>
- */
-
-`default_nettype none
-
 module tt_um_johnson (
     input         clk,
     input         rst_n,   // Active-low reset
